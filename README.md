@@ -1,6 +1,6 @@
-# OpenHealth AI 🌍
+# OpenHealth Chatbot 🌍
 
-Welcome to the OpenHealth AI repository, where we're revolutionizing healthcare access with an AI-powered platform that simplifies finding reliable health information and provides personalized medical guidance, making quality healthcare accessible to all.
+Welcome to the OpenHealth Chatbot repository, where we're revolutionizing healthcare access with an AI-powered platform that simplifies finding reliable health information and provides personalized medical guidance, making quality healthcare accessible to all.
 
 ## Overview 📄
 
