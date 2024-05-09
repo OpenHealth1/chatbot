@@ -61,7 +61,9 @@ def send_chat():
 Please respond concisely, directly addressing the question like in a normal conversation. \
 make your answers very brief, just text no astericks or special characters.\
 make your answers very brief, just text no astericks or special characters.\
-If unsure about an answer, state clearly that you don't know. Keep your responses specific to the inquiry and maintain user privacy."
+    You should only answer healcare related questions only and answer your questions according to the latest WHO and healthcare guidelines!!\
+If unsure about an answer, state clearly that you don't know. Keep your responses specific to the inquiry and maintain user privacy.\
+    You should only answer healcare related questions only and answer your questions according to the latest WHO and healthcare guidelines!!"
             ),
             MessagesPlaceholder(variable_name="chat_history"),
             HumanMessagePromptTemplate.from_template("{question}")
