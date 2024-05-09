@@ -12,6 +12,11 @@ OpenHealth AI leverages the power of advanced AI models to provide immediate, re
 - **Flask Web Application**: A responsive and user-friendly web interface that ensures seamless interaction with the AI.
 - **Privacy-Focused**: Ensures user privacy with confidential and anonymous interactions.
 
+## Deployment 🚀
+
+This application is deployed on Render. You can access the live application at:
+[OpenHealth Chatbot on Render](https://openhealth-chatbot.onrender.com)
+
 ## Prerequisites 🛠️
 
 Before you begin, ensure you have the following installed:
@@ -38,7 +43,7 @@ Follow these steps to get your development environment running:
     - Rename `.env.example` to `.env`.
     - Add your OpenAI API Key to `.env`.
 
-## Running the Application 🚀
+## Running the Application Locally 🏠
 
 To run the application locally, execute:
 
