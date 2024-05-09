@@ -1,7 +1,5 @@
-flask
-numpy
-pandas
-requests
-openai
-scikit_learn>=1.0.2
-gunicorn>=20.1.0
+Flask == 3.0.2
+flask-cors == 4.0.0
+python-dotenv == 1.0.0
+langchain == 0.0.287
+gunicorn
