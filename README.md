@@ -1,10 +1,13 @@
-# OpenHealth Chatbot 🌍
+# [OpenHealth Chatbot](https://openhealth-chatbot.onrender.com) 🌍
 
 Welcome to the OpenHealth Chatbot repository, where we're revolutionizing healthcare access with an AI-powered platform that simplifies finding reliable health information and provides personalized medical guidance, making quality healthcare accessible to all.
 
 ## Overview 📄
 
 OpenHealth AI leverages the power of advanced AI models to provide immediate, reliable medical guidance. Designed to bridge the healthcare information gap, our platform empowers individuals to manage their health proactively.
+
+
+# Check Live App [HERE](https://openhealth-chatbot.onrender.com) ! 🚀
 
 ## Features 🌟
 
