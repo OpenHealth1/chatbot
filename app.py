@@ -29,7 +29,7 @@ else:
 # Initialize Chat Model
 chat_model = ChatOpenAI(
     openai_api_key=openai_api_key,
-    model='gpt-4-turbo-preview',
+    model='gpt-4o',
     temperature=0.2
 )
 
@@ -69,6 +69,7 @@ def send_chat():
     "If you can't provide information on a specific question, recommend that the user sees a doctor. "
     "Engage users by taking a proper and accurate history, asking one question at a time until an accurate diagnosis or differential diagnosis is reached. "
     "Make sure you keep narrowing down and keep asking follow up questions till you reach a diagnosis, remember, should be more African, remeber your users are African."
+    "Only speak in English unless you are asked to speak any other African Language. If asked to apeak in any African Language, you are capable of doing that, so try your best and do so."
     "Maintain user privacy at all times. "),
             MessagesPlaceholder(variable_name="chat_history"),
             HumanMessagePromptTemplate.from_template("{question}")
